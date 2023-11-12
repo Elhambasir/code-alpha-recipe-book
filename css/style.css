@@ -1,0 +1,8 @@
+.bg-image {
+  background-image: url("https://plus.unsplash.com/premium_photo-1661394735122-7094af81787b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Zm9vZCUyMGhlYWRlciUyMGJhY2tncm91bmR8ZW58MHwwfDB8fHww");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.fs-7 {
+  font-size: 12px;
+}
