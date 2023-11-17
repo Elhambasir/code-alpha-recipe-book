@@ -6,3 +6,9 @@
 .fs-7 {
   font-size: 12px;
 }
+
+.recipe_header {
+  background-image: url("../assets/img/header.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
