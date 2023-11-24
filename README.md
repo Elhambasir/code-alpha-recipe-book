@@ -1,1 +1,1 @@
-# code-alpha-recipe-book1
+# code-alpha-recipe-book
